@@ -1,47 +1,20 @@
-# International-Trade-Analysis
-# International Trade Trend and Market Performance Analysis
+# Data Science & Analytics Portfolio – Precious Mamah
 
-## Project Overview
-This project analyzes international export transaction data to identify trade trends, market performance, and key drivers of export growth. The insights support data-driven decision-making for trade and business strategy.
+## About Me
+Aspiring Data Analyst with hands-on experience in data analysis, visualization, and business insights using Excel and Power BI.
 
-## Objective
-- Analyze export transaction trends over time
-- Evaluate market performance across regions
-- Identify top-performing export products
-- Provide actionable business insights
+## Skills
+- Data Analysis
+- Excel
+- Power BI
+- Data Visualization
+- Insight Generation
 
-## Tools Used
-- Microsoft Excel (Data cleaning & preparation)
-- Power BI (Data visualization & dashboard creation)
+## Projects
+### 1. International Trade Trend and Market Performance Analysis
+📌 Analyzed export transaction data to uncover trade trends and market performance.  
+🔗 [View Project](./International-Trade-Analysis)
 
-## Dataset Description
-The dataset includes export transaction records such as:
-- Transaction date
-- Exporting country/region
-- Product category
-- Export value
-- Market destination
-
-## Key Questions Answered
-- How have export trends changed over time?
-- Which markets contribute the most to export revenue?
-- What products drive the highest export value?
-- Which regions show growth or decline?
-
-## Key Insights
-- Certain regions consistently dominated export value.
-- Export performance showed clear seasonal and yearly trends.
-- A small number of product categories contributed a large share of total exports.
-
-## Dashboard
-An interactive Power BI dashboard was created to visualize:
-- Export trends over time
-- Market performance by region
-- Top export products
-
-![Dashboard Preview](visuals/dashboard_screenshot.png)
-
-## Recommendations
-- Focus trade expansion on high-performing markets.
-- Strengthen supply for top export products.
-- Monitor underperforming regions for strategic improvement.
+## Contact
+- LinkedIn: https://www.linkedin.com/in/precious-mamah-aa6077191?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- Email: preschristher@gmail.com
