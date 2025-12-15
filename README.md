@@ -1,20 +1,25 @@
 # Data Science & Analytics Portfolio – Precious Mamah
 
 ## About Me
-Aspiring Data Analyst with hands-on experience in data analysis, visualization, and business insights using Excel and Power BI.
+I am an aspiring Data Analyst with hands-on experience in data analysis, visualization, and business reporting using Excel and Power BI. I am passionate about transforming data into meaningful insights that support informed decision-making.
 
 ## Skills
 - Data Analysis
-- Excel
+- Microsoft Excel
 - Power BI
 - Data Visualization
-- Insight Generation
+- Data Cleaning & Preparation
+- Business & Market Analysis
 
 ## Projects
-### 1. International Trade Trend and Market Performance Analysis
-📌 Analyzed export transaction data to uncover trade trends and market performance.  
+
+### International Trade Trends and Market Performance Analysis
+📌 Analyzed international export transaction data to identify trade trends, market performance, and key export drivers.  
 🔗 [View Project](./International-Trade-Analysis)
 
+## CV
+📄 [Download My CV](./CV/Precious_Mamah_Data_Analyst_CV.pdf)
+
 ## Contact
-- LinkedIn: https://www.linkedin.com/in/precious-mamah-aa6077191?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-- Email: preschristher@gmail.com
+- GitHub: https://github.com/PreciousOnwochei/data-science-portfolio
+- Email: preshchristher@gmail.com
